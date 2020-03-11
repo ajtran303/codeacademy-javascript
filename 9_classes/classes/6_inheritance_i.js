@@ -1,0 +1,3 @@
+// A parent class can pass down properties and methods to children classes through inheritance
+
+// Eventually, this data structure of parent-child relationships can look like a tree....
